@@ -1,5 +1,5 @@
 # **Le langage Java**
-* --
+
 
 ## Introduction
 
